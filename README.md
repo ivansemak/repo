@@ -1,1 +1,1 @@
-https://ivansemak.github.io/repo/cv
+https://github.com/ivansemak/repo/blob/gh-pages/cv.md
